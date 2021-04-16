@@ -1,7 +1,7 @@
 import discord
 import asyncio
 from discord.ext import commands
-TOKEN="ODMxNDk2NDExNTQyNTg1Mzk1.YHWFYA.XVEijfOaROyR3gYUnYXz2l0-wKM"
+TOKEN="ODMxNDk2NDExNTQyNTg1Mzk1.YHWFYA.xrOB3OjF6wvoSetV8D_Gm6_sIus"
 intents = discord.Intents(messages=True, guilds=True, reactions=True, members=True, presences=True)
 Bot = commands.Bot(command_prefix='!', intents=intents)
 
